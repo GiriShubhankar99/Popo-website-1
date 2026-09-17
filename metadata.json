@@ -1,0 +1,6 @@
+{
+  "name": "POPO - The Flavourverse",
+  "description": "An interactive animated 3D ice cream universe featuring 7 magical flavour worlds, the POPO explorer mascot, and the playable POPO Time arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
